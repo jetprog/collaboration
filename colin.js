@@ -1,0 +1,1 @@
+let colin = {b: 0};
