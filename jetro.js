@@ -1,0 +1,1 @@
+let test = {key: 'value', key2: 5};
